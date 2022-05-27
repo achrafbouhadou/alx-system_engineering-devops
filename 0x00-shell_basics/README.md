@@ -1,3 +1,4 @@
 current working directory :scripte for print document path dir
 1-listit : scripte for listing file
-2-bring me home : scripte for  change dir to home dir 
+2-bring me home : scripte for  change dir to home dir
+3-listfiles : fore Display current directory contents in a long format 
