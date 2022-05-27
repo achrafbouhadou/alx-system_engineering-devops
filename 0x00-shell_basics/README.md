@@ -7,4 +7,5 @@ current working directory :scripte for print document path dir
 6-firstdirectory : mkdir in /temp
 7-movethatfile : move file from dir to other dir
 8-firstdelete : remove fille
-9-firstdirdeletion : remove dir   
+9-firstdirdeletion : remove dir
+10-back : back to previous dir   
