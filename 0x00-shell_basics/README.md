@@ -8,4 +8,5 @@ current working directory :scripte for print document path dir
 7-movethatfile : move file from dir to other dir
 8-firstdelete : remove fille
 9-firstdirdeletion : remove dir
-10-back : back to previous dir   
+10-back : back to previous dir  
+11-lists : that lists all files (even ones with names beginning with a period character, which are normally hidden 
